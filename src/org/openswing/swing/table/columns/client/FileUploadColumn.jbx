@@ -1,0 +1,11 @@
+[PropertyInfo]
+columnType,int,false,false, , ,true,<default>
+fileFilter,FileFilter,false,false, , ,true,<default>
+fileNameAttributeName,String,false,false, , ,false,<default>
+showDownloadButton,boolean,false,false, , ,true,<default>
+showUploadButton,boolean,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,26 @@
+[PropertyInfo]
+allowsCloseWindow,boolean,false,false, , ,false,<default>
+anchorComponent,JComponent,false,false, , ,false,<default>
+closeButton,ImagePanel,false,false, , ,false,<default>
+constraint,int,false,false, , ,false,<default>
+dim,Dimension,false,false, , ,false,<default>
+iconHeight,int,false,false, , ,true,<default>
+iconifableWindowListeners,ArrayList,false,false, , ,false,<default>
+lastWindowDimension,Dimension,false,false, , ,false,<default>
+preferredSize,Dimension,false,false, , ,false,<default>
+reduceToIconButton,ImagePanel,false,false, , ,false,<default>
+restoreButton,ImagePanel,false,false, , ,false,<default>
+showCloseButton,boolean,false,false, , ,true,<default>
+showReduceToIconButton,boolean,false,false, , ,true,<default>
+size,Dimension,false,false, , ,false,<default>
+title,String,false,false, , ,true,<default>
+titleImage,ImagePanel,false,false, , ,false,<default>
+titleImageName,String,false,false, , ,true,<default>
+topPanel,JPanel,false,false, , ,false,<default>
+topPanelBackground,Color,false,false, , ,true,<default>
+window,JWindow,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

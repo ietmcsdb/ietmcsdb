@@ -1,0 +1,9 @@
+[PropertyInfo]
+columnType,int,false,false, , ,true,<default>
+currencySymbol,String,false,false, , ,true,<default>
+currencySymbolOnLeft,boolean,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

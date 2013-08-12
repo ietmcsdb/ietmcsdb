@@ -1,0 +1,23 @@
+[PropertyInfo]
+actionListeners,ActionListener[],false,false, , ,true,<default>
+enabled,boolean,false,false, , ,true,<default>
+font,Font,false,false, , ,true,<default>
+foregroundColorWhenEntered,Color,false,false, , ,true,<default>
+foregroundColorWhenExited,Color,false,false, , ,false,<default>
+label,String,false,false, , ,true,<default>
+labelAttributeName,String,false,false, , ,true,<default>
+linkButton,JLabel,false,false, , ,false,<default>
+listeners,ArrayList,false,false, , ,false,<default>
+oldValue,boolean,false,false, , ,true,<default>
+showUnderline,boolean,false,false, , ,false,<default>
+text,String,false,false, , ,false,<default>
+textAlignment,int,false,false, , ,true,<default>
+tooltipAttributeName,String,false,false, , ,true,<default>
+toolTipText,String,false,false, , ,true,<default>
+uri,String,false,false, , ,true,<default>
+uriAttributeName,String,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

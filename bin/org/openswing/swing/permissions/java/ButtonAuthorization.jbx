@@ -1,0 +1,10 @@
+[PropertyInfo]
+deleteEnabled,boolean,false,false, , ,true,<default>
+editEnabled,boolean,false,false, , ,true,<default>
+functionId,String,false,false, , ,false,<default>
+insertEnabled,boolean,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

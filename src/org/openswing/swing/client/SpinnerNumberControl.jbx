@@ -1,0 +1,24 @@
+[PropertyInfo]
+bindingComponent,JComponent,false,false, , ,true,<default>
+columns,int,false,false, , ,true,<default>
+component,JComponent,false,false, , ,true,<default>
+enabled,boolean,false,false, , ,true,<default>
+enabledBackColor,Color,false,false, , ,false,<default>
+ftf,JFormattedTextField,false,false, , ,false,<default>
+horizontalAlignment,int,false,false, , ,true,<default>
+initialValue,Double,false,false, , ,true,<default>
+maxValue,Double,false,false, , ,true,<default>
+minValue,Double,false,false, , ,true,<default>
+model,SpinnerNumberModel,false,false, , ,false,<default>
+nextValue,Object,false,false, , ,true,<default>
+previousValue,Object,false,false, , ,true,<default>
+readOnly,boolean,false,false, , ,true,<default>
+spinner,JSpinner,false,false, , ,false,<default>
+step,Double,false,false, , ,true,<default>
+textOrientation,ComponentOrientation,false,false, , ,true,<default>
+value,Object,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,17 @@
+[PropertyInfo]
+accelerator,KeyStroke,false,false, , ,false,<default>
+description,String,false,false, , ,true,<default>
+folder,boolean,false,false, , ,true,<default>
+functionId,String,false,false, , ,true,<default>
+iconName,String,false,false, , ,true,<default>
+isFolder,boolean,false,false, , ,false,<default>
+isSeparator,boolean,false,false, , ,false,<default>
+methodName,String,false,false, , ,true,<default>
+separator,boolean,false,false, , ,true,<default>
+shortCut,Character,false,false, , ,true,<default>
+tooltipText,String,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

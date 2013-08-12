@@ -1,0 +1,39 @@
+[PropertyInfo]
+allColumnFields,ArrayList,false,false, , ,false,<default>
+allDataFields,ArrayList,false,false, , ,false,<default>
+allRowFields,ArrayList,false,false, , ,false,<default>
+autoCompile,boolean,false,false, , ,false,<default>
+backPanel,Color,false,false, , ,false,<default>
+bindedButtons,HashSet,false,false, , ,true,<default>
+colsScrollPane,JScrollPane,false,false, , ,false,<default>
+colsTable,CellSpanTable,false,false, , ,false,<default>
+columnsPanel,JPanel,false,false, , ,false,<default>
+controller,PivotTableController,false,false, , ,true,<default>
+currentExpandableColFields,HashMap,false,false, , ,false,<default>
+currentExpandableRowFields,HashMap,false,false, , ,false,<default>
+currentValueButtons,HashMap,false,false, , ,false,<default>
+dataFieldRenderer,DataFieldRenderer,false,false, , ,false,<default>
+dataPanel,JPanel,false,false, , ,false,<default>
+dataScrollPane,JScrollPane,false,false, , ,false,<default>
+dataTable,JTable,false,false, , ,false,<default>
+exportButton,ExportButton,false,false, , ,false,<default>
+filterButton,FilterButton,false,false, , ,false,<default>
+firstTime,boolean,false,false, , ,false,<default>
+flowLayout1,FlowLayout,false,false, , ,false,<default>
+flowLayout3,FlowLayout,false,false, , ,false,<default>
+functionId,String,false,false, , ,true,<default>
+gridBagLayout1,GridBagLayout,false,false, , ,false,<default>
+inputFilter,InputFilter,false,false, , ,true,<default>
+pars,PivotTableParameters,false,false, , ,false,<default>
+pivotTableChanged,boolean,false,false, , ,false,<default>
+pivotTableModel,PivotTableModel,false,false, , ,false,<default>
+reloadButton,ReloadButton,false,false, , ,false,<default>
+rowsPanel,JPanel,false,false, , ,false,<default>
+rowsScrollPane,JScrollPane,false,false, , ,false,<default>
+rowsTable,CellSpanTable,false,false, , ,false,<default>
+sdf,SimpleDateFormat,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

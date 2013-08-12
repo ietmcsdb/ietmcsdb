@@ -1,0 +1,18 @@
+[PropertyInfo]
+columnsAttribute,String[],false,false, , ,false,<default>
+columnsVisibility,boolean[],false,false, , ,false,<default>
+columnsWidth,int[],false,false, , ,false,<default>
+currentSortedColumns,ArrayList,false,false, , ,false,<default>
+currentSortedVersusColumns,ArrayList,false,false, , ,false,<default>
+description,String,false,false, , ,false,<default>
+functionId,String,false,false, , ,false,<default>
+id,Object,false,false, , ,true,<default>
+quickFilterValues,Map,false,false, , ,false,<default>
+quickFilterValues,HashMap,false,false, , ,true,<default>
+username,String,false,false, , ,false,<default>
+defaultProfile,boolean,false,false,defaultProfile,defaultProfile,true,<default>
+[IconNames]
+
+
+
+

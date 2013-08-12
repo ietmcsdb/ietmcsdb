@@ -1,0 +1,14 @@
+[PropertyInfo]
+attributeName,String,false,false, , ,false,<default>
+editingRow,int,false,false, , ,true,<default>
+gridColumnAlignments,Hashtable,false,false, , ,false,<default>
+gridColumns,ArrayList,false,false, , ,false,<default>
+iconAttributeName,String,false,false, , ,false,<default>
+rowHeight,int,false,false, , ,true,<default>
+tree,JTree,false,false, , ,true,<default>
+treeRenderer,TreeGridNodeRenderer,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

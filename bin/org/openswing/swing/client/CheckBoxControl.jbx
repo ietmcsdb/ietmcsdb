@@ -1,0 +1,23 @@
+[PropertyInfo]
+allowNullValue,boolean,false,false, , ,false,<default>
+attributeName,String,false,false, , ,true,<default>
+canCopy,boolean,false,false, , ,true,<default>
+changed,boolean,false,false, , ,true,<default>
+defaultBackgroundColor,Color,false,false, , ,false,<default>
+enabled,boolean,false,false, , ,true,<default>
+enabledOnEdit,boolean,false,false, , ,true,<default>
+enabledOnInsert,boolean,false,false, , ,true,<default>
+font,Font,false,false, , ,true,<default>
+label,LabelControl,false,false, , ,false,<default>
+linkLabel,LabelControl,false,false, , ,true,<default>
+oldValue,Object,false,false, , ,false,<default>
+required,boolean,false,false, , ,true,<default>
+text,String,false,false, , ,true,<default>
+toolTipText,String,false,false, , ,true,<default>
+value,Object,false,false, , ,true,<default>
+valueChangedListeners,ArrayList,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

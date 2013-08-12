@@ -1,0 +1,46 @@
+[PropertyInfo]
+allColumnPreferredWidth,int,false,false, , ,true,<default>
+allColumnsSelectable,Boolean,false,false, , ,true,<default>
+allColumnVisible,boolean,false,false, , ,true,<default>
+allowTreeLeafSelectionOnly,boolean,false,false, , ,true,<default>
+anchorLastColumn,boolean,false,false, , ,true,<default>
+autoFitColumns,boolean,false,false, , ,true,<default>
+codeSelectionWindow,int,false,false, , ,true,<default>
+codeValid,boolean,false,false, , ,false,<default>
+colProperties,Column[],false,false, , ,false,<default>
+columnsSelectable,Boolean[],false,false, , ,false,<default>
+comboFilters,HashMap,false,false, , ,false,<default>
+customPanel,CustomFilterPanel,false,false, , ,true,<default>
+disableFrameClosing,boolean,false,false, , ,false,<default>
+form,Form,false,false, , ,true,<default>
+framePreferedSize,Dimension,false,false, , ,true,<default>
+framePreferredSize,Dimension,false,false, , ,false,<default>
+frameTitle,String,false,false, , ,true,<default>
+gridCopyButton,boolean,false,false, , ,true,<default>
+gridDeleteButton,boolean,false,false, , ,true,<default>
+gridEditButton,boolean,false,false, , ,true,<default>
+gridExportButton,boolean,false,false, , ,true,<default>
+gridFilterButton,boolean,false,false, , ,true,<default>
+gridInsertButton,boolean,false,false, , ,true,<default>
+lastInvalidCode,String,false,false, , ,false,<default>
+lastValidCode,String,false,false, , ,false,<default>
+listeners,ArrayList,false,false, , ,false,<default>
+lookupDataLocator,LookupDataLocator,false,false, , ,true,<default>
+lookupFrame,LookupFrame,false,false, , ,false,<default>
+lookupGridController,LookupGridController,false,false, , ,false,<default>
+lookupListeners,LookupListener[],false,false, , ,true,<default>
+lookupMapper,LookupMapper,false,false, , ,false,<default>
+lookupValueObjectClassName,String,false,false, , ,true,<default>
+lookupVO,ValueObject,false,false, , ,true,<default>
+maxSortedColumns,int,false,false, , ,true,<default>
+onInvalidCode,int,false,false, , ,false,<default>
+selectedRow,int,false,false, , ,false,<default>
+showCustomErrorMessage,boolean,false,false, , ,false,<default>
+showErrorMessage,boolean,false,false, , ,false,<default>
+showNavigatorBar,boolean,false,false, , ,true,<default>
+visibleStatusPanel,boolean,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

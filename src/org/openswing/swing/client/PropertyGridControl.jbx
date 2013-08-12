@@ -1,0 +1,18 @@
+[PropertyInfo]
+controller,PropertyGridController,false,false, , ,true,<default>
+editButton,EditButton,false,false, , ,true,<default>
+functionId,String,false,false, , ,false,<default>
+grid,JTable,false,false, , ,false,<default>
+insertButton,InsertButton,false,false, , ,true,<default>
+mode,int,false,false, , ,false,<default>
+model,PropertyGridModel,false,false, , ,false,<default>
+properties,ValueObject,false,false, , ,false,<default>
+propertyNameWidth,int,false,false, , ,true,<default>
+propertyValueWidth,int,false,false, , ,true,<default>
+reloadButton,ReloadButton,false,false, , ,true,<default>
+saveButton,SaveButton,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

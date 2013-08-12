@@ -1,0 +1,18 @@
+[PropertyInfo]
+allColumnPreferredWidth,int,false,false, , ,true,<default>
+allColumnVisible,boolean,false,false, , ,true,<default>
+colProperties,Column[],false,false, , ,false,<default>
+columnType,int,false,false, , ,true,<default>
+comboDataLocator,ItemsDataLocator,false,false, , ,true,<default>
+comboValueObjectClassName,String,false,false, , ,true,<default>
+getters,Hashtable,false,false, , ,false,<default>
+itemListeners,ArrayList,false,false, , ,true,<default>
+itemsDataLocator,ItemsDataLocator,false,false, , ,false,<default>
+itemsMapper,ItemsMapper,false,false, , ,false,<default>
+itemsVO,ValueObject,false,false, , ,false,<default>
+nullAsDefaultValue,boolean,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

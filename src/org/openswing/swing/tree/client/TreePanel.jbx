@@ -1,0 +1,52 @@
+[PropertyInfo]
+changed,boolean,false,false, , ,true,<default>
+checkedLeaves,HashSet,false,false, , ,true,<default>
+checkedNodes,HashSet,false,false, , ,true,<default>
+component,JComponent,false,false, , ,true,<default>
+dndListener,TreeDragNDropListener,false,false, , ,false,<default>
+dragCursor,Cursor,false,false, , ,false,<default>
+dragSource,DragSource,false,false, , ,false,<default>
+enabled,boolean,false,false, , ,true,<default>
+expandAllNodes,boolean,false,false, , ,true,<default>
+expandRoot,boolean,false,false, , ,false,<default>
+firstTime,boolean,false,false, , ,false,<default>
+folderIconName,String,false,false, , ,true,<default>
+iconAttributeName,String,false,false, , ,true,<default>
+itemListeners,ItemListener[],false,false, , ,true,<default>
+keyListeners,ArrayList,false,false, , ,false,<default>
+leavesImageName,String,false,false, , ,true,<default>
+loadWhenVisibile,boolean,false,false, , ,true,<default>
+menuItems,Hashtable,false,false, , ,false,<default>
+mouseListeners,ArrayList,false,false, , ,false,<default>
+popup,JPopupMenu,false,false, , ,false,<default>
+readOnly,boolean,false,false, , ,true,<default>
+rootVisible,boolean,false,false, , ,true,<default>
+rowCount,int,false,false, , ,true,<default>
+rowHeight,int,false,false, , ,true,<default>
+searchWindowManager,SearchWindowManager,false,false, , ,false,<default>
+selectedIndex,int,false,false, , ,true,<default>
+selectedNode,DefaultMutableTreeNode,false,false, , ,true,<default>
+selectionBackground,Color,false,false, , ,true,<default>
+selectionForeground,Color,false,false, , ,true,<default>
+selectionMode,int,false,false, , ,true,<default>
+selectionPath,TreePath,false,false, , ,true,<default>
+selectionPaths,TreePath[],false,false, , ,true,<default>
+selectionRow,int,false,false, , ,true,<default>
+selectionRows,int[],false,false, , ,true,<default>
+showCheckBoxes,boolean,false,false, , ,true,<default>
+showCheckBoxesOnLeaves,boolean,false,false, , ,false,<default>
+showsRootHandles,boolean,false,false, , ,true,<default>
+table,JTable,false,false, , ,false,<default>
+tooltipAttributeName,String,false,false, , ,false,<default>
+tree,JTree,false,false, , ,true,<default>
+treeChanged,boolean,false,false, , ,false,<default>
+treeController,TreeController,false,false, , ,true,<default>
+treeDataLocator,TreeDataLocator,false,false, , ,true,<default>
+treeId,String,false,false, , ,false,<default>
+treeModel,DefaultTreeModel,false,false, , ,false,<default>
+treePane,JScrollPane,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

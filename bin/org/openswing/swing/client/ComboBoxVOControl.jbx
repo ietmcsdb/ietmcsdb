@@ -1,0 +1,31 @@
+[PropertyInfo]
+allColumnPreferredWidth,int,false,false, , ,true,<default>
+allColumnVisible,boolean,false,false, , ,true,<default>
+bindingComponent,JComponent,false,false, , ,true,<default>
+colProperties,Column[],false,false, , ,false,<default>
+combo,JComboBox,false,false, , ,false,<default>
+comboBox,JComboBox,false,false, , ,true,<default>
+comboDataLocator,ItemsDataLocator,false,false, , ,true,<default>
+comboValueObjectClassName,String,false,false, , ,true,<default>
+component,JComponent,false,false, , ,true,<default>
+enabled,boolean,false,false, , ,true,<default>
+enabledBackColor,Color,false,false, , ,false,<default>
+foreignKeyAttributeName,String,false,false, , ,false,<default>
+form,Form,false,false, , ,false,<default>
+getters,Hashtable,false,false, , ,false,<default>
+itemsDataLocator,ItemsDataLocator,false,false, , ,false,<default>
+itemsLoaded,boolean,false,false, , ,false,<default>
+itemsMapper,ItemsMapper,false,false, , ,false,<default>
+itemsVO,ValueObject,false,false, , ,false,<default>
+model,DefaultComboBoxModel,false,false, , ,false,<default>
+nullAsDefaultValue,boolean,false,false, , ,true,<default>
+readOnly,boolean,false,false, , ,true,<default>
+rowCount,int,false,false, , ,true,<default>
+selectedIndex,int,false,false, , ,true,<default>
+value,Object,false,false, , ,true,<default>
+valueObject,ValueObject,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

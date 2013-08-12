@@ -1,0 +1,21 @@
+[PropertyInfo]
+bindingComponent,JComponent,false,false, , ,true,<default>
+columns,int,false,false, , ,true,<default>
+component,JComponent,false,false, , ,true,<default>
+domain,Domain,false,false, , ,true,<default>
+domainId,String,false,false, , ,true,<default>
+enabled,boolean,false,false, , ,true,<default>
+enabledBackColor,Color,false,false, , ,false,<default>
+ftf,JFormattedTextField,false,false, , ,false,<default>
+horizontalAlignment,int,false,false, , ,true,<default>
+model,SpinnerListModel,false,false, , ,false,<default>
+readOnly,boolean,false,false, , ,true,<default>
+spinner,JSpinner,false,false, , ,false,<default>
+textOrientation,ComponentOrientation,false,false, , ,true,<default>
+translateItemDescriptions,boolean,false,false, , ,true,<default>
+value,Object,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

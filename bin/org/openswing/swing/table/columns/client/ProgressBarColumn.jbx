@@ -1,0 +1,15 @@
+[PropertyInfo]
+color,Color,false,false, , ,true,<default>
+coloredBands,ArrayList,false,false, , ,false,<default>
+columnType,int,false,false, , ,false,<default>
+currentColor,Color,false,false, , ,false,<default>
+editableOnEdit,boolean,false,false, , ,true,<default>
+editableOnInsert,boolean,false,false, , ,true,<default>
+maxValue,double,false,false, , ,true,<default>
+minValue,double,false,false, , ,true,<default>
+showAllBands,boolean,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

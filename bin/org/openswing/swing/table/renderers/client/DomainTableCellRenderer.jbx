@@ -1,0 +1,17 @@
+[PropertyInfo]
+attributeName,String,false,false, , ,false,<default>
+bottomMargin,int,false,false, , ,false,<default>
+container,JPanel,false,false, , ,false,<default>
+defaultFont,Font,false,false, , ,false,<default>
+domain,Domain,false,false, , ,true,<default>
+gridController,GridController,false,false, , ,false,<default>
+leftMargin,int,false,false, , ,false,<default>
+rend,JLabel,false,false, , ,false,<default>
+rightMargin,int,false,false, , ,false,<default>
+topMargin,int,false,false, , ,false,<default>
+translateItemDescriptions,boolean,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

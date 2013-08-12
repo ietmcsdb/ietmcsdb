@@ -1,0 +1,14 @@
+[PropertyInfo]
+actionListeners,ArrayList,false,false, , ,true,<default>
+buttonBorder,Border,false,false, , ,false,<default>
+columnType,int,false,false, , ,true,<default>
+enableInReadOnlyMode,boolean,false,false, , ,false,<default>
+icon,Icon,false,false, , ,false,<default>
+iconName,String,false,false, , ,true,<default>
+showAttributeValue,boolean,false,false, , ,true,<default>
+text,String,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

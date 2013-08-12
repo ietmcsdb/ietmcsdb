@@ -1,0 +1,15 @@
+[PropertyInfo]
+barMargin,int,false,false, , ,true,<default>
+bigDecimal,BigDecimal,false,false, , ,false,<default>
+currentValue,Double,false,false, , ,false,<default>
+double,Double,false,false, , ,false,<default>
+maxValue,double,false,false, , ,true,<default>
+minValue,double,false,false, , ,true,<default>
+regionColorAsBackground,boolean,false,false, , ,true,<default>
+regions,ArrayList,false,false, , ,false,<default>
+value,Object,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,32 @@
+[PropertyInfo]
+borderLayout1,BorderLayout,false,false, , ,false,<default>
+buttonBack,JButton,false,false, , ,false,<default>
+buttonCancel,JButton,false,false, , ,false,<default>
+buttonGroup1,ButtonGroup,false,false, , ,false,<default>
+buttonOk,JButton,false,false, , ,false,<default>
+buttonsPanel,JPanel,false,false, , ,false,<default>
+controlLicence,JEditorPane,false,false, , ,false,<default>
+gridBagLayout1,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout2,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout3,GridBagLayout,false,false, , ,false,<default>
+imageName,String,false,false, , ,true,<default>
+imagePanel,ImagePanel,false,false, , ,false,<default>
+labelSubTitle,JLabel,false,false, , ,false,<default>
+labelTitle,JLabel,false,false, , ,false,<default>
+licence,String,false,false, , ,true,<default>
+mainPanel,JPanel,false,false, , ,false,<default>
+radioButtonNo,JRadioButton,false,false, , ,false,<default>
+radioButtonOk,JRadioButton,false,false, , ,false,<default>
+scrollPane,JScrollPane,false,false, , ,false,<default>
+showBackButton,boolean,false,false, , ,true,<default>
+showCancelButton,boolean,false,false, , ,true,<default>
+showOkButton,boolean,false,false, , ,true,<default>
+subTitle,String,false,false, , ,true,<default>
+title,String,false,false, , ,true,<default>
+topPanel,JPanel,false,false, , ,false,<default>
+voidPanel,JPanel,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

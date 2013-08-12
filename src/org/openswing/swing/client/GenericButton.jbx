@@ -1,0 +1,14 @@
+[PropertyInfo]
+attributeName,String,false,false, , ,true,<default>
+buttonBehavior,int,false,false, , ,false,<default>
+buttonId,int,false,false, , ,false,<default>
+dataControllerList,List,false,false, , ,false,<default>
+enabled,boolean,false,false, , ,true,<default>
+executeAsThread,boolean,false,false, , ,true,<default>
+oldValue,boolean,false,false, , ,true,<default>
+text,String,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

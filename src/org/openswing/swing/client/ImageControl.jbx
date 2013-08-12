@@ -1,0 +1,21 @@
+[PropertyInfo]
+autoResize,boolean,false,false, , ,true,<default>
+bindingComponent,JComponent,false,false, , ,true,<default>
+enabled,boolean,false,false, , ,true,<default>
+fileFilter,FileFilter,false,false, , ,true,<default>
+gridBagLayout1,GridBagLayout,false,false, , ,false,<default>
+image,byte[],false,false, , ,true,<default>
+imageHeight,int,false,false, , ,true,<default>
+imagePanel,ImagePanel,false,false, , ,false,<default>
+imageWidth,int,false,false, , ,true,<default>
+listeners,ArrayList,false,false, , ,false,<default>
+scrollBarsPolicy,int,false,false, , ,true,<default>
+selButton,JButton,false,false, , ,false,<default>
+showButton,boolean,false,false, , ,true,<default>
+showPreview,boolean,false,false, , ,false,<default>
+value,Object,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

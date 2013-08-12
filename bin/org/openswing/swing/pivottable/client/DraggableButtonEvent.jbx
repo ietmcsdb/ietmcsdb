@@ -1,0 +1,9 @@
+[PropertyInfo]
+panelId,String,false,false, , ,false,<default>
+source,int,false,false, , ,true,<default>
+target,int,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

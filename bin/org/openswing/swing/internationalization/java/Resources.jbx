@@ -1,0 +1,17 @@
+[PropertyInfo]
+currencySymbol,String,false,false, , ,true,<default>
+dateFormat,int,false,false, , ,true,<default>
+dateFormatSeparator,char,false,false, , ,true,<default>
+decimalSymbol,char,false,false, , ,true,<default>
+dictionary,Properties,false,false, , ,false,<default>
+entries,Enumeration,false,false, , ,true,<default>
+groupingSymbol,char,false,false, , ,true,<default>
+languageId,String,false,false, , ,true,<default>
+showCenturyInDateFormat,boolean,false,false, , ,true,<default>
+showResourceNotFoundWarning,boolean,false,false, , ,false,<default>
+timeFormat,String,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

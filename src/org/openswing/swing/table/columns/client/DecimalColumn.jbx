@@ -1,0 +1,13 @@
+[PropertyInfo]
+columnType,int,false,false, , ,true,<default>
+decimals,int,false,false, , ,true,<default>
+dynamicSettings,DecimalColumnSettings,false,false, , ,true,<default>
+grouping,boolean,false,false, , ,true,<default>
+hideZeroDigits,boolean,false,false, , ,false,<default>
+maxValue,double,false,false, , ,true,<default>
+minValue,double,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

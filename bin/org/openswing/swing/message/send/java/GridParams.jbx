@@ -1,0 +1,12 @@
+[PropertyInfo]
+action,int,false,false, , ,true,<default>
+currentSortedColumns,ArrayList,false,false, , ,true,<default>
+currentSortedVersusColumns,ArrayList,false,false, , ,true,<default>
+filteredColumns,Map,false,false, , ,true,<default>
+otherGridParams,Map,false,false, , ,true,<default>
+startPos,int,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

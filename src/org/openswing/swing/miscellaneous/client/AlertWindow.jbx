@@ -1,0 +1,29 @@
+[PropertyInfo]
+anchorComponent,JComponent,false,false, , ,false,<default>
+body,MultiLineLabelControl,false,false, , ,false,<default>
+buttonsPanel,JPanel,false,false, , ,false,<default>
+closeButton,ImagePanel,false,false, , ,false,<default>
+constraint,int,false,false, , ,false,<default>
+dim,Dimension,false,false, , ,false,<default>
+fadeInTime,long,false,false,fadeIn,fadeIn,true,<default>
+fadeOutTime,long,false,false,fadeTime,fadeTime,true,<default>
+iconHeight,int,false,false, , ,false,<default>
+imageName,String,false,false,imageName,imageName,true,<default>
+lastWindowDimension,Dimension,false,false, , ,false,<default>
+mainText,String,false,false, , ,true,<default>
+preferredSize,Dimension,false,false, , ,true,<default>
+reduceToIconButton,ImagePanel,false,false, , ,false,<default>
+reduceToIconOnTimeout,boolean,false,false, , ,false,<default>
+restoreButton,ImagePanel,false,false, , ,false,<default>
+showCloseButton,boolean,false,false,showCloseButton,showCloseButton,true,<default>
+showDefaultComponents,boolean,false,false, , ,false,<default>
+showReduceToIconButton,boolean,false,false,showReduceToIconButton,showReduceToIconButton,true,<default>
+size,Dimension,false,false, , ,true,<default>
+timeout,long,false,false,timeout,timeout,true,<default>
+title,String,false,false, , ,true,<default>
+window,JWindow,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

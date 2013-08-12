@@ -1,0 +1,12 @@
+[PropertyInfo]
+error,boolean,false,false, , ,true,<default>
+errorMessage,String,false,false, , ,true,<default>
+moreRows,boolean,false,false, , ,true,<default>
+resultSetLength,int,false,false, , ,true,<default>
+rows,ArrayList,false,false, , ,true,<default>
+totalAmountOfRows,int,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

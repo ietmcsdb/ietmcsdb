@@ -1,0 +1,25 @@
+[PropertyInfo]
+allowOnlyNumbers,boolean,false,false, , ,true,<default>
+bindingComponent,JComponent,false,false, , ,true,<default>
+buttonSeparator,Component,false,false, , ,false,<default>
+codBox,CodBox,false,false, , ,true,<default>
+codBoxVisible,boolean,false,false, , ,true,<default>
+columns,int,false,false, , ,true,<default>
+controllerClassName,String,false,false, , ,true,<default>
+controllerMethodName,String,false,false, , ,true,<default>
+enableAutoCompletition,boolean,false,false, , ,false,<default>
+enableCodBox,boolean,false,false, , ,true,<default>
+enabled,boolean,false,false, , ,true,<default>
+lookupButton,JButton,false,false, , ,false,<default>
+lookupCodeParentValue,Object,false,false, , ,true,<default>
+lookupController,LookupController,false,false, , ,true,<default>
+maxCharacters,int,false,false, , ,true,<default>
+plusButton,JButton,false,false, , ,false,<default>
+validationController,LookupController,false,false, , ,false,<default>
+value,Object,false,false, , ,true,<default>
+valueObject,ValueObject,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

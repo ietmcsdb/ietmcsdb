@@ -1,0 +1,41 @@
+[PropertyInfo]
+borderLayout2,BorderLayout,false,false, , ,false,<default>
+borderLayout3,BorderLayout,false,false, , ,false,<default>
+closePanel,ImagePanel,false,false, , ,false,<default>
+colProperties,Column[],false,false, , ,false,<default>
+filterButton,GenericButton,false,false, , ,false,<default>
+filterColNames,ArrayList,false,false, , ,false,<default>
+filterColOps,ArrayList,false,false, , ,false,<default>
+filterColumns,Hashtable,false,false, , ,false,<default>
+filterColValues,ArrayList,false,false, , ,false,<default>
+filterPanel,JPanel,false,false, , ,false,<default>
+filterPanelOnGridPolicy,int,false,false, , ,false,<default>
+filterScrollPane,JScrollPane,false,false, , ,false,<default>
+flowLayout1,FlowLayout,false,false, , ,false,<default>
+fPanel,JPanel,false,false, , ,false,<default>
+grid,Grids,false,false, , ,false,<default>
+gridBagLayout1,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout2,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout3,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout4,GridBagLayout,false,false, , ,false,<default>
+gridBagLayout5,GridBagLayout,false,false, , ,false,<default>
+initialFilterList,Map,false,false, , ,false,<default>
+initialOrderList,ArrayList,false,false, , ,false,<default>
+locked,boolean,false,false, , ,true,<default>
+lockImage,Image,false,false, , ,false,<default>
+lockPanel,ImagePanel,false,false, , ,false,<default>
+mainPanel,JPanel,false,false, , ,false,<default>
+oPanel,JPanel,false,false, , ,false,<default>
+orderColumns,Hashtable,false,false, , ,false,<default>
+orderPanel,JPanel,false,false, , ,false,<default>
+orderScrollPane,JScrollPane,false,false, , ,false,<default>
+sortColNames,ArrayList,false,false, , ,false,<default>
+sortVersus,ArrayList,false,false, , ,false,<default>
+tabbedPane,JTabbedPane,false,false, , ,false,<default>
+topPanel,JPanel,false,false, , ,false,<default>
+unlockImage,Image,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,17 @@
+[PropertyInfo]
+bottomMargin,int,false,false, , ,true,<default>
+columnType,int,false,false, , ,true,<default>
+decimals,int,false,false, , ,true,<default>
+dynamicSettings,IntegerColumnSettings,false,false, , ,true,<default>
+grouping,boolean,false,false, , ,true,<default>
+leftMargin,int,false,false, , ,true,<default>
+maxValue,int,false,false, , ,true,<default>
+minValue,int,false,false, , ,true,<default>
+replaceDataOnEdit,boolean,false,false, , ,false,<default>
+rightMargin,int,false,false, , ,true,<default>
+topMargin,int,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

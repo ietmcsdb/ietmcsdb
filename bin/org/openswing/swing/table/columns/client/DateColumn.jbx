@@ -1,0 +1,14 @@
+[PropertyInfo]
+columnType,int,false,false, , ,true,<default>
+dateFormat,int,false,false, , ,false,<default>
+dateListeners,ArrayList,false,false, , ,false,<default>
+format,int,false,false, , ,true,<default>
+lowerLimit,Date,false,false, , ,true,<default>
+separator,char,false,false, , ,true,<default>
+showCentury,boolean,false,false, , ,true,<default>
+upperLimit,Date,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

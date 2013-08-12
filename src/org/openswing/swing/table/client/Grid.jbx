@@ -1,0 +1,37 @@
+[PropertyInfo]
+activeCellBackgroundColor,Color,false,false, , ,true,<default>
+additionalHeaderToHeaders,Hashtable,false,false, , ,false,<default>
+ascSort,Icon,false,false, , ,false,<default>
+colProps,Column[],false,false, , ,false,<default>
+controlDown,boolean,false,false, , ,false,<default>
+dataModified,boolean,false,false, , ,true,<default>
+descSort,Icon,false,false, , ,false,<default>
+dragSource,DragSource,false,false, , ,false,<default>
+dropTarget2,DropTarget,false,false, , ,false,<default>
+firstTime,boolean,false,false, , ,false,<default>
+fromColIndex,int,false,false, , ,false,<default>
+gridController,GridController,false,false, , ,false,<default>
+gridId,String,false,false, , ,false,<default>
+grids,Grids,false,false, , ,false,<default>
+gridType,int,false,false, , ,false,<default>
+hasColSpan,boolean,false,false, , ,false,<default>
+headerToAdditionalHeader,Hashtable,false,false, , ,false,<default>
+lockedGrid,boolean,false,false, , ,false,<default>
+mode,int,false,false, , ,true,<default>
+modelAdapter,VOListAdapter,false,false, , ,false,<default>
+orderWithLoadData,boolean,false,false, , ,true,<default>
+reorderingAllowed,boolean,false,false, , ,true,<default>
+resizingAllowed,boolean,false,false, , ,true,<default>
+rowHeightFixed,boolean,false,false, , ,true,<default>
+scrollPane,JScrollPane,false,false, , ,false,<default>
+sortingMouseListener,MouseListener,false,false, , ,true,<default>
+statusPanel,GridStatusPanel,false,false, , ,false,<default>
+tableColumnModel,TableColumn[],false,false, , ,false,<default>
+toColIndex,int,false,false, , ,false,<default>
+VOListTableModel,VOListTableModel,false,false, , ,true,<default>
+vScrollbar,PaginationVerticalScrollbar,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

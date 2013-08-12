@@ -1,0 +1,38 @@
+[PropertyInfo]
+additionalHeaderColumnName,String,false,false, , ,false,<default>
+additionalHeaderColumnSpan,int,false,false, , ,false,<default>
+autoFitColumn,boolean,false,false, , ,true,<default>
+colHeader,JLabel,false,false, , ,false,<default>
+colRow,JPanel,false,false, , ,false,<default>
+columnDuplicable,boolean,false,false, , ,true,<default>
+columnFilterable,boolean,false,false, , ,true,<default>
+columnName,String,false,false, , ,true,<default>
+columnRequired,boolean,false,false, , ,true,<default>
+columnSelectable,boolean,false,false, , ,true,<default>
+columnSortable,boolean,false,false, , ,true,<default>
+columnType,int,false,false, , ,true,<default>
+columnVisible,boolean,false,false, , ,true,<default>
+defaultFilterValues,FilterWhereClause[],false,false, , ,false,<default>
+designColumnType,Class,false,false, , ,false,<default>
+editableOnEdit,boolean,false,false, , ,true,<default>
+editableOnInsert,boolean,false,false, , ,true,<default>
+filter,ListFilterController,false,false, , ,false,<default>
+gridBagLayout1,GridBagLayout,false,false, , ,false,<default>
+headerColumnName,String,false,false, , ,true,<default>
+headerFont,Font,false,false, , ,true,<default>
+headerForegroundColor,Color,false,false, , ,true,<default>
+headerTextHorizontalAlignment,int,false,false, , ,true,<default>
+headerTextVerticalAlignment,int,false,false, , ,true,<default>
+listFilter,ListFilterController,false,false, , ,true,<default>
+maxWidth,int,false,false, , ,true,<default>
+minWidth,int,false,false, , ,true,<default>
+preferredWidth,int,false,false, , ,true,<default>
+sortingOrder,int,false,false, , ,true,<default>
+sortVersus,String,false,false, , ,true,<default>
+table,Grids,false,false, , ,true,<default>
+textAlignment,int,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

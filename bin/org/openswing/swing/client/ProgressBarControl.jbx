@@ -1,0 +1,16 @@
+[PropertyInfo]
+bigDecimal,BigDecimal,false,false, , ,false,<default>
+bindingComponent,JComponent,false,false, , ,false,<default>
+color,Color,false,false, , ,true,<default>
+double,Double,false,false, , ,false,<default>
+enabled,boolean,false,false, , ,false,<default>
+maxValue,double,false,false, , ,true,<default>
+minValue,double,false,false, , ,true,<default>
+progressBar,ProgressBar,false,false, , ,false,<default>
+showAllBands,boolean,false,false, , ,true,<default>
+value,Object,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

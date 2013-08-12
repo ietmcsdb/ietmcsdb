@@ -1,0 +1,27 @@
+[PropertyInfo]
+afterActionListeners,ArrayList,false,false, , ,false,<default>
+beforeActionListeners,ArrayList,false,false, , ,false,<default>
+controlPageNr,NumericControl,false,false, , ,false,<default>
+currentPageNr,int,false,false, , ,false,<default>
+enabled,boolean,false,false, , ,true,<default>
+firstButton,JButton,false,false, , ,false,<default>
+firstButtonEnabled,boolean,false,false, , ,true,<default>
+firstRow,boolean,false,false, , ,true,<default>
+lastButton,JButton,false,false, , ,false,<default>
+lastButtonEnabled,boolean,false,false, , ,true,<default>
+lastRow,boolean,false,false, , ,true,<default>
+nextButton,JButton,false,false, , ,false,<default>
+nextButtonEnabled,boolean,false,false, , ,true,<default>
+nextPgButton,JButton,false,false, , ,false,<default>
+pageNrPanel,JPanel,false,false, , ,false,<default>
+prevButton,JButton,false,false, , ,false,<default>
+prevButtonEnabled,boolean,false,false, , ,true,<default>
+prevPgButton,JButton,false,false, , ,false,<default>
+resultSetController,Grids,false,false, , ,false,<default>
+showPageNumber,boolean,false,false, , ,false,<default>
+showPaginationButtons,boolean,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

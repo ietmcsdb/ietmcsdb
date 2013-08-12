@@ -1,0 +1,19 @@
+[PropertyInfo]
+bottomMargin,int,false,false, , ,true,<default>
+changeListeners,ArrayList,false,false, , ,true,<default>
+columnType,int,false,false, , ,true,<default>
+domain,Domain,false,false, , ,true,<default>
+domainId,String,false,false, , ,true,<default>
+editor,SpinnerListCellEditor,false,false, , ,false,<default>
+leftMargin,int,false,false, , ,true,<default>
+orientation,ComponentOrientation,false,false, , ,false,<default>
+renderer,DomainTableCellRenderer,false,false, , ,false,<default>
+rightMargin,int,false,false, , ,true,<default>
+textOrientation,ComponentOrientation,false,false, , ,true,<default>
+topMargin,int,false,false, , ,true,<default>
+translateItemDescriptions,boolean,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

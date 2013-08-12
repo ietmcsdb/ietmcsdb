@@ -1,0 +1,27 @@
+[PropertyInfo]
+bindingComponent,JComponent,false,false, , ,true,<default>
+calendar,JDateChooser,false,false, , ,false,<default>
+currentDate,Calendar,false,false, , ,false,<default>
+date,Date,false,false, , ,true,<default>
+dateField,JTextField,false,false, , ,true,<default>
+dateFormat,int,false,false, , ,false,<default>
+dateListeners,ArrayList,false,false, , ,false,<default>
+dateType,int,false,false, , ,true,<default>
+defaultDate,Calendar,false,false, , ,false,<default>
+enabled,boolean,false,false, , ,true,<default>
+eventFiredByCalendar,boolean,false,false, , ,false,<default>
+format,int,false,false, , ,true,<default>
+lowerLimit,Date,false,false, , ,true,<default>
+sdf,SimpleDateFormat,false,false, , ,false,<default>
+separator,char,false,false, , ,true,<default>
+showCalendarButton,boolean,false,false, , ,false,<default>
+showCentury,boolean,false,false, , ,true,<default>
+strictUsage,boolean,false,false, , ,false,<default>
+timeFormat,String,false,false, , ,true,<default>
+upperLimit,Date,false,false, , ,true,<default>
+value,Object,false,false, , ,true,<default>
+[IconNames]
+
+
+
+
